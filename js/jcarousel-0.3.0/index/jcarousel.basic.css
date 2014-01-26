@@ -1,0 +1,250 @@
+/* SLIDESHOW GRANDE DE FOTOS EN INDEX, MARCAS Y BENBETESH */
+.jcarousel-wrapper .photo-credits {
+    position: absolute;
+    right: 15px;
+    bottom: 0;
+    font-size: 13px;
+    color: #fff;
+    text-shadow: 0 0 1px rgba(0, 0, 0, 0.85);
+    opacity: .66;
+}
+.jcarousel-wrapper .photo-credits a {
+    color: #fff;
+}
+/** Carousel **/
+.jcarousel {
+    position: relative;
+    overflow: hidden;
+    width: 1000px;
+    height: 611px;
+}
+.jcarousel ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.jcarousel li {
+    float: left;
+}
+.jcarousel li img{
+	border: 0px;
+}
+/** Carousel Controls **/
+.jcarousel-control-prev,
+.jcarousel-control-next {
+    position: absolute;
+    top: 275px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font: 80px/27px Arial, sans-serif;
+	cursor: pointer;
+	border: none;
+}
+.jcarousel-control-prev {
+    left: 45px;
+}
+.jcarousel-control-next {
+    right: 55px;
+}
+.jcarousel-control-prev:hover span,
+.jcarousel-control-next:hover span {
+    display: block;
+}
+.jcarousel-control-prev.inactive,
+.jcarousel-control-next.inactive {
+    opacity: .5;
+    cursor: default;
+}
+/** Carousel Pagination **/
+.jcarousel-pagination {
+	position: absolute;
+	bottom: 3px;
+	left: 104px;
+	text-align: center;
+	width: 90px;
+}
+.jcarousel-pagination a {
+	position: relative;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0px;
+    line-height: 7px;
+    min-width: 7px;
+	min-height: 7px;
+	background: url('../../../imagenes/circulito.png');
+	background-repeat: no-repeat;
+    padding: 4px;
+    text-align: center;
+    margin-right: 2px;
+}
+.jcarousel-pagination a.active {
+    background: url('../../../imagenes/circulitohover.png');
+	background-repeat: no-repeat;
+}
+.raya1{
+	position: absolute;
+	width: 100px;
+	top: 583px;
+	border: 1px solid #ffffff;
+	opacity:0.4;
+	filter:alpha(opacity=40);   /*IE 8 o mas viejo */
+	max-height: 1px;
+}
+.raya2{
+	position: absolute;
+	width: 805px;
+	top: 583px;
+	left: 193px;
+	border: 1px solid #ffffff;
+	opacity:0.4;
+	filter:alpha(opacity=40);   /*IE 8 o mas viejo */
+	max-height: 1px;
+}
+/* SLIDESHOW PEQUEÑO DE 4 FOTOS EN EL INDEX */
+
+/** Carousel **/
+.jcarousel2 {
+    position: relative;
+    overflow: hidden;
+    width: 1000px;
+    height: 119px;
+}
+.jcarousel2 ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+.jcarousel2 li {
+    float: left;
+	margin-right: 4px;
+}
+/** Carousel Controls **/
+.jcarousel-control-prev2,
+.jcarousel-control-next2 {
+    position: relative;
+    top: -84px;
+    width: 30px;
+    height: 30px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font: 80px/27px Arial, sans-serif;
+	border: none;
+	cursor: pointer;
+}
+.jcarousel-control-prev2 {
+    left: 35px;
+}
+.jcarousel-control-next2 {
+    left: 905px;
+}
+.jcarousel-control-prev2:hover span,
+.jcarousel-control-next2:hover span {
+    display: block;
+}
+.jcarousel-control-prev2.inactive,
+.jcarousel-control-next2.inactive {
+    opacity: .5;
+    cursor: default;
+}
+/** Carousel Pagination **/
+.jcarousel-pagination2 {
+    position: absolute;
+    bottom: 3px;
+    left: 105px;
+}
+.jcarousel-pagination2 a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0px;
+    line-height: 7px;
+    min-width: 7px;
+	min-height: 7px;
+    padding: 4px;
+    text-align: center;
+    margin-right: 2px;
+	background: url('../../../imagenes/circulito.png');
+	background-repeat: no-repeat;
+}
+.jcarousel-pagination2 a.active {
+    background: url('../../../imagenes/circulitohover.png');
+	background-repeat: no-repeat;
+}
+
+/* SLIDESHOW PEQUEÑO DE 4 LOGOS EN EL INDEX */
+
+/** Carousel **/
+.jcarousel3 {
+    position: relative;
+    overflow: hidden;
+    width: 567px;
+    height: 182px;
+}
+
+.jcarousel3 ul {
+    width: 20000em;
+    position: relative;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+.jcarousel3 li {
+    float: left;
+	margin-right: 3px;
+}
+
+/** Carousel Pagination **/
+.jcarousel-pagination3 {
+    position: absolute;
+    top: 165px;
+    left: 400px;
+}
+.jcarousel-pagination3 a {
+    text-decoration: none;
+    display: inline-block;
+    font-size: 0px;
+    line-height: 7px;
+    min-width: 7px;
+	min-height: 7px;
+    padding: 4px;
+    text-align: center;
+    margin-right: 2px;
+	background: url('../../../imagenes/circulito2.png');
+	background-repeat: no-repeat;
+}
+.jcarousel-pagination3 a.active {
+	background: url('../../../imagenes/circulito2hover.png');
+	background-repeat: no-repeat;
+}
+.raya3{
+	position: absolute;
+	width: 176px;
+	left: 218px;
+	top: 196px;
+	max-height: 1px;
+	border-top: 1px solid #006dc0; 
+}
+.raya4{
+	position: absolute;
+	width: 112px;
+	top: 196px;
+	left: 455px;
+	border-top: 1px solid #006dc0; 
+	max-height: 1px;
+}
+.raya5{
+    position: absolute;
+    width: 214px;
+    left: 178px;
+    top: 196px;
+    max-height: 1px;
+    border-top: 1px solid #006dc0; 
+}

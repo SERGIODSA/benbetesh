@@ -1,0 +1,120 @@
+.nosotros{
+	width: 1000px;
+	height: 1150px;
+}
+.somos{
+	height: 611px;
+	width: 1000px;
+	position: relative;
+	background-color: #ffffff;
+}
+.quienessomos{
+	top: 62px;
+	height: 549px;
+	width: 553px;
+	position: relative;
+	float: left;
+	margin-left: 54px;
+	margin-right: 38px;
+	line-height: 33px;
+	font-size: 18px;
+	text-align: justify;
+}
+.fotossomos{
+	top: 84px;
+	height: 527px;
+	width: 355px;
+	position: relative;
+	float: right;
+}
+.misvis{
+	height: 176px;
+	width: 1000px;
+	position: relative;
+	background: url('../imagenes/nosotros.png');
+	background-repeat: no-repeat;
+	top: 5px;
+}
+.mision{
+	height: 176px;
+	width: 370px;
+	position: relative;
+	float: left;
+	margin-left: 65px;
+	text-align: justify;
+	font-size: 14px;
+}
+.vision{
+	height: 176px;
+	width: 370px;
+	position: relative;
+	float: right;
+	margin-right: 70px;
+	text-align: justify;
+	font-size: 14px;
+}
+.valores{
+	width: 866px;
+	height: 324px;
+	position: relative;
+	left: 67px;
+	right: 67px;
+}
+.valorimagen{
+	position: relative;
+	float: left;
+	width: 314px;
+	height: 250px;
+}
+.valortexto{
+	position: relative;
+	float: right;
+	width: 502px;
+	height: 250px;
+	text-align: justify;
+	overflow: hidden;
+}
+.valortexto2{
+	position: relative;
+	float: right;
+	width: 415px;
+	text-align: justify;
+	line-height: 28px;
+}
+.fuera{
+	padding: 0px 0px 0px 14px; 
+	margin: 0px 0px 0px 0px; 
+}
+.tituloslide{
+	font-size: 18px;
+	font-weight: bold;
+	height: 20px;
+}
+.contslide{
+	font-size: 16px;
+	height: 214px;
+}
+.nosotrostitulo{
+	position: relative;
+	font-size: 20px;
+	font-weight: bold;
+	height: 30px;
+}
+.nosotroscontenido{
+	position: relative;
+	height: 458px;
+}
+.jspPane table{
+	border: none;
+}
+.jspPane table  tr  td{
+	vertical-align: text-top;
+}
+.jspPane table  tr  td p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 12px;
+}
+.jspPane p{
+	margin-right: 40px;
+}

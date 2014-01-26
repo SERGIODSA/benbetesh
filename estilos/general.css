@@ -1,0 +1,35 @@
+/* CSS Document */
+@charset "utf-8";
+@font-face {
+    font-family: 'nexa_lightregular';
+    src: url('fuentes/nexalight-webfont.eot');
+    src: url('fuentes/nexalight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fuentes/nexalight-webfont.woff') format('woff'),
+         url('fuentes/nexalight-webfont.ttf') format('truetype'),
+         url('fuentes/nexalight-webfont.svg#nexa_lightregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+body{
+	margin: 0;
+	padding: 0;
+	background: url('../imagenes/bt.png');
+	background-color: #ececec;
+	background-repeat: repeat-x;
+	font-family: 'nexa_lightregular',"Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.degradado{
+	background: url('../imagenes/borde.png');
+	background-repeat: repeat-y;
+	margin: auto;
+	width: 1089px;
+}
+.cuerpo{
+	width: 1000px;
+	margin: auto;
+	background: url('../imagenes/backinterno.png');
+	background-repeat: repeat-x;
+}
+.pointer{
+	cursor: pointer;
+}

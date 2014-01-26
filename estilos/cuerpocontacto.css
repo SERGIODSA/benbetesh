@@ -1,0 +1,159 @@
+textarea{
+	resize:none;
+	width: 477px;
+	height: 183px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #223d4e;
+	font-family: 'nexalight';
+    src: url('fuentes/NexaLight.eot');
+    src: local('☺'), url('fuentes/NexaLight.woff') format('woff'), url('fuentes/NexaLight.ttf') format('truetype'), url('fuentes/NexaLight.svg') format('svg');
+	overflow: auto;
+}
+.titulo{
+	font-weight: bold;
+	font-size: 20px;
+}
+.contacto{
+	position: relative;
+	height: 1242px;
+	width: 1000px;
+	background: #ffffff url('./imagenes/contacto.jpg') top left no-repeat;
+}
+.oficinas{
+	position: relative;
+	top: 20px;
+	left: 255px;
+	height: 402px;
+	width: 720px;
+	color: #223d4e;
+}
+.contitulo1{
+	position: relative;
+	width: 720px;
+	height: 42px;
+}
+.izquierda{
+	position: relative;
+	float: left;
+	width: 350px;
+	height: 120px;
+}
+.derecha{
+	position: relative;
+	float: right;
+	width: 350px;
+	height: 120px;
+}
+.cond{
+	position: relative;
+	width: 720px;
+	height: 337px;
+	font-size: 13px;
+}
+.contactanos{
+	position: relative;
+	top: 18px;
+	margin-left: 11px;
+	font-size: 18px;
+}
+.celdatexto{
+	text-align: right;
+}
+.contactenos{
+	position: relative;
+	top: 20px;
+	left: 460px;
+	width: 539px;
+	height: 690px;
+}
+.formcontacto{
+	position: relative;
+	width: 519px;
+	height: 650px;
+	background-color: #223d4e;
+	color: #ffffff;
+	font-size: 20px;
+}
+.boton{
+	position: relative;
+	float: right;
+	top: 35px;
+	right: 18px;
+	width: 100px;
+}
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-size: 20px;
+	font-weight: normal;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	-webkit-user-select: none;
+	 -moz-user-select: none;
+	  -ms-user-select: none;
+	   -o-user-select: none;
+		  user-select: none;
+	color: #223d4e;
+	background-color: #ffffff;
+	width: 100px;
+	height: 37px;
+}
+.sizeinput{
+	width: 353px;
+	color: #223d4e;
+	height: 36px;
+	font-size: 18px;
+}
+.subtitulo{
+	font-size: 22px;
+	height: 32px;
+	position: relative;
+}
+.paises{
+	position: relative;
+	left: 20px;
+	width: 980px;
+	height: 96px;
+	top: 53px;
+	color: #223d4e;
+	font-size: 20px;
+}
+.formizq{
+	float: left;
+	width: 90px;
+	height: 60px;
+	text-align: right;
+	line-height: 40px;
+}
+.formder{
+	float: right;
+	width: 403px;
+	height: 60px;
+}
+.formup{
+	float: left;
+	height: 60px;
+	line-height: 80px;
+	width: 477px;
+	margin-left: 7px;
+}
+.formdown{
+	float: left;
+	margin-left: 7px;
+	width: 483px;
+}
+label.error{
+	font-size: 10px;
+	color: #FFFF00;
+	line-height: 5px;
+	float: left;
+	width: 400px;
+}
+input.error{
+	border: 1px solid #FFFF00;
+}

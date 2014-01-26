@@ -1,0 +1,206 @@
+.tabs{
+	list-style-type:none; 
+	margin:0; 
+	padding:0;	
+}
+.tabs li{
+	float:left; 
+}
+.tiendaslideshow{
+	position: relative;
+	width: 1000px;
+	height: 611px;
+}
+.tiendamarcas{
+	position: relative;
+	width: 1000px;
+	height: 176px;
+	margin-top: 5px;
+}
+.tiendalogo{
+	position: relative;
+	float: left;
+	height: 206px;
+	width: 340px;
+}
+.tiendafoto1, .tiendafoto2, .tiendafoto3{
+	position: relative;
+	float: left;
+	height: 206px;
+	width: 210px;
+}
+
+.tiendacontenido{
+	height: 478px;
+	width: 1000px;
+	position: relative;
+}
+.tiendainfo{
+	position: relative;
+	float: left;
+	width: 575px;
+	height: 478px;
+}
+.tiendacontacto{
+	position: relative;
+	float: right;
+	width: 355px;
+	height: 458px;
+	margin-right: 60px;
+}
+.tiendainfotit{
+	color: #8c8e8d;
+	text-decoration: none;
+	position: relative;
+	width: 485px;
+	height: 25px;
+	left: 60px;
+	border-bottom: solid 1px #006dc0;
+	top: 42px;
+}
+#perfil{
+	color: #036bc2;
+}
+#historia, #tiendas{
+	color: #8c8e8d;
+}
+#perfil, #historia, #tiendas{
+	text-decoration: none;
+	font-size: 18px;
+}
+.tiendainfocuerpo{
+	position: relative;
+	width: 485px;
+	height: 368px;
+	color: #036bc2;
+	line-height: 22px;
+	text-align: justify;
+	left: 60px;
+	top: 42px;
+}
+.tiendasiguenos{
+	position: relative;
+	height: 30px;
+	width: 437px;
+	color: #036bc2;
+	left: 20px;
+	top: 40px;
+}
+.ts1{
+	position: relative;
+	float: left;
+	line-height: 25px;
+}
+.ts2{
+	position: relative;
+	float: left;
+}
+.tub{
+	float: right;
+	border: 1px solid #006dc0; 
+	height: 424px;
+	width: 340px;
+	margin-top: 41px;
+	color: #036bc2;
+}
+.tubcelda1{
+	text-align: center;
+	border-bottom: 1px solid #006dc0; 
+	margin-left: 11px;
+	margin-right: 11px;
+	margin-top: 8px;
+}
+.tubcelda2{
+	margin-left: 11px;
+	margin-top: 8px;
+	line-height: 15px;
+	height: 81px;
+}
+.formcontacto{
+	margin-left: 11px;
+	width: 319px;
+	height: 278px;
+	background-color: #223d4e;
+	color: #ffffff;
+}
+.botoncontacto{
+	background-color: #006cbf;
+}
+.contactanos{
+	position: relative;
+	top: 18px;
+	margin-left: 11px;
+	font-size: 14px;
+}
+.boton{
+	position: relative;
+	top: 25px;
+	left: 195px;
+}
+.btn {
+	display: inline-block;
+	margin-bottom: 0;
+	font-size: 14px;
+	font-weight: normal;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	cursor: pointer;
+	background-image: none;
+	border: 1px solid transparent;
+	-webkit-user-select: none;
+	 -moz-user-select: none;
+	  -ms-user-select: none;
+	   -o-user-select: none;
+		  user-select: none;
+	color: #ffffff;
+	background-color: #006cbf;
+	width: 100px;
+}
+.sizeinput{
+	width: 203px;
+	color: #223d4e;
+}
+.descripcion{
+	margin-right: 50px;
+}
+.smallimg{
+	display:block; 
+	float: left; 
+	position: relative;
+}
+.formizq{
+	float: left;
+	width: 80px;
+	height: 37px;
+}
+.formder{
+	float: right;
+	width: 225px;
+	height: 37px;
+}
+
+label.error{
+	font-size: 10px;
+	color: #FFFF00;
+}
+input.error{
+	border: 1px solid #FFFF00;
+}
+.logos{
+	border: none;
+	cursor: pointer;
+}
+.jspPane table{
+	border: none;
+}
+.jspPane table  tr  td{
+	vertical-align: text-top;
+}
+.jspPane table  tr  td p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.jspPane p{
+	margin-right: 40px;
+}

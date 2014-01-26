@@ -1,0 +1,125 @@
+.header{
+	height: 168px;
+	width: 1000px;
+}
+.sociales{
+	top: 13px;
+	float: right;
+	position: relative;
+	height: 30px;
+	width: 664px;
+}
+.cab1{
+	position: relative;
+	height: 75px;
+	width: 1000px;
+}
+.cab2{
+	position: relative;
+	height: 68px;
+	width: 1000px;
+}
+.cab3{
+	position: relative;
+	height: 25px;
+	width: 1000px;
+}
+.buscar{
+	top: 13px;
+	float: right;
+	position: relative;
+	height: 33px;
+	width: 664px;
+}
+.cabbuscador{
+	position: relative;
+	float: right;
+	margin-right: 30px;
+	width: 270px;
+}
+.cabboton{
+	position: relative;
+	float: right;
+	top: -1px;
+	right: 5px;
+	cursor: pointer;
+}
+.cabbanderas{
+	position: relative;
+	float: right;
+	width: 61px;
+	height: 23px;
+}
+.cabidiomas{
+	position: relative;
+	float: right;
+	color: #ffffff;
+	font-size: 14px;
+	width: 150px;
+	text-align: center;
+	line-height: 23px;
+}
+.cabsocial{
+	position: relative;
+	float: right;
+	max-width: 85px;
+	margin-right: 24px;
+	height: 23px;
+}
+.cablogo{
+	position: relative;
+	float: left;
+	width: 325px;
+	height: 65px;
+	top: 10px;
+	left: 10px;
+}
+/* MENU */
+.cabblanco2{
+	position: relative;
+	width: 107px;
+	height: 9px;
+}
+.cabm{
+	width: 141px;
+	height: 42px;
+	border-right: 1px solid #1457fe;
+	position: relative;
+	float: left;
+	text-align: center;
+}
+.cabm2{
+	width: 138px;
+	height: 42px;
+	position: relative;
+	float: left;
+	text-align: center;
+}
+.cont1, .cont2, .cont3, .cont4, .cont5, .cont6, .cont7{
+	position: relative;
+}
+.cablinks{
+	position: relative;
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 14px;
+}
+#consulta{
+	width: 260px;
+	height: 18px;
+	border: 0px solid #0b3bdb;
+	color: #0b3bdb;
+	padding-left: 10px;
+}
+.language{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 14px;
+}
+.logos{
+	border: none;
+	cursor: pointer;
+}
+.logo{
+	border: none;
+}

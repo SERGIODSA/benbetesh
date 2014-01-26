@@ -1,0 +1,173 @@
+div#preload { display: none; }
+.indexslideshow{
+	position: relative;
+	width: 1000px;
+	height: 611px;
+}
+.indexmarcas{
+	width: 1000px;
+	height: 119px;
+	border-bottom: 1px solid #006dc0; 
+}
+.indextitulo{
+	position: relative;
+	height: 28px;
+	width: 1000px;
+	border-bottom: 1px solid #006dc0; 
+	line-height: 30px;
+	color: #036bc2;
+	font-size: 18px;
+}
+/* TODO ESTO PERTENECE AL CONTENIDO */
+.indexcontenido{
+	position: relative;
+	width: 1000px;
+	height: 594px;
+	color: #036bc2;
+}
+.indexarticulo1{
+	margin-top: 28px;
+	position: relative;
+	float: left;
+	width: 390px;
+	height: 545px;
+	border-right: 1px solid #006dc0; 
+}
+.indexarticulo2{
+	margin-top: 28px;
+	position: relative;
+	float: left;
+	width: 567px;
+	height: 570px;
+	margin-left: 15px;
+}
+.indexarticulo1titulo{
+	line-height: 30px;
+	font-size: 18px;
+	margin-left: 15px;
+}
+.indexarticulo2titulo{
+	line-height: 30px;
+	font-size: 18px;
+	margin-left: 18px;
+}
+.indexapcomun{
+	position: relative;
+	border-bottom: 1px solid #006dc0; 
+}
+.indexa1ancho{
+	width: 376px;
+}
+.indexa1a2alto1{
+	height: 210px; 
+}
+.indexa1a2alto2{
+	height: 28px;
+}
+.indexa1a2alto3{
+	height: 310px;
+}
+.indexa1a2alto4{
+	height: 28px;
+}
+.indexa2ancho{
+	width: 567px;
+}
+.marco1tiendas{
+	width: 376px;
+	border-top: 1px solid #006dc0; 
+	height: 28px;
+}
+.marco2tiendas{
+	width: 567px;
+	border-top: 1px solid #006dc0; 
+	height: 28px;
+}
+.im{
+	position: relative;
+	width: 364px;
+	height: 182px;
+	left: 36px;
+}
+.indexvermas{
+	height: 18px;
+	line-height: 22px;
+	border-top: 1px solid #006dc0; 
+	border-bottom: 1px solid #006dc0; 
+	font-size: 14px;
+	margin-top: 3px;
+	text-align: center;
+}
+.indexvermasing{
+	width: 62px;
+}
+.indexvermasespa{
+	width: 52px;
+}
+.indexenlace{
+	color: #036bc2;
+	text-decoration: none;
+	text-align: center;
+}
+.indexespacio2{
+	position: relative;
+	height: 23px;
+}
+.indexa2cont{
+	position: relative;
+	height: 122px;
+}
+.indexa2img1{
+	position: relative;
+	float: left;
+}
+.indexa2cont1{
+	position: relative;
+	float: right;
+	height: 122px;
+	width: 360px;
+}
+.imagen{
+	border: none;
+}
+.tiendas{
+	position: absolute;
+	width: 198px;
+	top: 182px;
+	line-height: 30px;
+	font-size: 18px;
+	margin-left: 18px;
+}
+.tiendasing {
+    position: absolute;
+    width: 160px;
+    top: 182px;
+    line-height: 30px;
+    font-size: 18px;
+    margin-left: 18px;
+}
+.bb1{
+	position: relative;
+	left: 26px;
+	top: 10px;
+	width: 350px; 
+	height: 200px;
+}
+.bb2{
+	position: relative;
+	left: 26px;
+	top: 10px;
+	width: 350px; 
+	height: 62px;
+}
+.bb3{
+	position: relative;
+	height: 18px;
+	line-height: 22px;
+	border-top: 1px solid #006dc0; 
+	border-bottom: 1px solid #006dc0; 
+	font-size: 14px;
+	left: 26px;
+	top: 15px;
+	text-align: center;
+}

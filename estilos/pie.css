@@ -1,0 +1,81 @@
+.footer{
+	position: relative;
+	background-color: #004fb1;
+	width: 1000px;
+	height: 244px;
+	color: white;
+	font-size: 13px;
+	-webkit-border-radius: 2px;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	line-height:19px;
+}
+.piecontenido{
+	position: relative;
+	top: 32px;
+	bottom: 32px;
+}
+.pietitulos{
+	font-weight: bold;
+	line-height: 40px;
+}
+.piemarcas{
+	position: relative;
+	float: left;
+	border-right: 1px solid #4881c8;
+	width: 230px;
+	height: 180px;
+	
+}
+.pietiendas{
+	position: relative;
+	float: left;
+	border-right: 1px solid #4881c8;
+	width: 230px;
+	height: 180px;
+}
+.piecorporativo{
+	position: relative;
+	float: left;
+	border-right: 1px solid #4881c8;
+	width: 230px;
+	height: 180px;
+}
+.piecontactenos{
+	position: relative;
+	float: right;
+	width: 300px;
+	height: 180px;
+}
+.margen{
+	margin-left: 60px;
+}
+.margen2{
+	margin-left: 50px;
+}
+.lettersize{
+	font-size: 14px;
+}
+.pievinculos{
+	color: #ffffff;
+	text-decoration: none;
+	font-size: 14px;
+	text-transform: capitalize;
+}
+.language{
+	text-decoration: none;
+	color: #ffffff;
+	font-size: 14px;
+	text-transform: capitalize;
+}
+.language:hover{
+	color: #CEE3F6;
+	-webkit-transition:all 1s ease;
+	-moz-transition:all 1s ease;
+	-o-transition:all 1s ease;
+	transition:all 1s ease;
+}
+.logos{
+	border: none;
+	cursor: pointer;
+}

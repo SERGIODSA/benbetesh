@@ -1,0 +1,118 @@
+.resultado{
+	width: 1000px;
+	height: auto;
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Opera */ 
+	background-image: -o-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #DADEEA), color-stop(1, #FFFFFF));
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to bottom, #DADEEA 0%, #FFFFFF 100%);
+	/* IE 8 y 9 */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#DADEEA', EndColorStr='#FFFFFF',GradientType='0');  
+}
+.titulo{
+	position: relative;
+	left: 46px;
+	right: 18px;
+	top: 18px;
+	width: 936px;
+	height: 46px;
+	font-weight: bold;
+}
+.marcas{
+	position: relative;
+	left: 46px;
+	right: 18px;
+	top: 10px;
+	width: 936px;
+	min-height: 20px;
+}
+.noticias{
+	position: relative;
+	left: 46px;
+	right: 18px;
+	top: 20px;
+	width: 936px;
+	min-height: 20px;
+}
+.titulomarcas{
+	position: relative;
+	border-bottom: 1px solid  #006dc0;
+	font-weight: bold;
+	color: #006dc0;
+}
+.titulonoticias{
+	position: relative;
+	border-bottom: 1px solid  #006dc0;
+	font-weight: bold;
+	color: #006dc0;
+}
+.marca{
+	position: relative;
+	margin-top: 14px;
+	height: 115px;
+	width: 908px;
+	background-color: #ffffff;
+}
+.contenidomarcas{
+	left: 10px;
+	width: 908px;
+}
+.contenidonoticias{
+	left: 10px;
+	width: 908px;
+}
+.imagen{
+	position: relative;
+	float: left;
+	width: 165px;
+	height: 115px;
+}
+.resumen{
+	position: relative;
+	float: right;
+	width: 743px;
+	height: 115px;
+}
+.ti{
+	position: relative;
+	float: left;
+	left: 21px;
+	width: 722px;
+	height: 21px;
+	font-weight: bold;
+}
+.co{
+	position: relative;
+	float: left;
+	left: 21px;
+	width: 722px;
+	height: 63px;
+	font-size: 14px;
+	top: 5px;
+}
+.ma{
+	position: relative;
+	float: left;
+	left: 21px;
+	width: 722px;
+	height: 15px;
+	top: 5px;
+}
+.mas{
+	text-decoration: none;
+	color: #006dc0;
+	font-weight: bold;
+	font-size: 14px;
+}
+.espacio{
+	position: relative;
+	width: 936px;
+	height: 40px;
+}

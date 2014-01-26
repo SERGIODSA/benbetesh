@@ -1,0 +1,17 @@
+﻿<?xml version="1.0"?>
+<configuration date="2014/01/21" author="e.World Technology Ltd.">
+<project id="{56E3A665-834A-4135-82FE-063C92D89B0C}" file="C:\Users\Usuario\Desktop\In Progress\laptop\cms-benbetesh.pmp" name="cms2Dbenbetesh" product="PHPMaker" version="10.0" datetime="2014/01/21 12:05:20" languagefolder="phplang" userlevel="">
+<table id="form_contacto" name="form_contacto" caption="En Contacto" userlevel="" priv="1"/>
+<table id="idioma" name="idioma" caption="idioma" userlevel="" priv="1"/>
+<table id="marcas" name="marcas" caption="Marcas" userlevel="" priv="1"/>
+<table id="_menu" name="menu" caption="Menu Principal" userlevel="" priv="1"/>
+<table id="nosotros" name="nosotros" caption="Nosotros" userlevel="" priv="1"/>
+<table id="noticias" name="noticias" caption="Blog" userlevel="" priv="1"/>
+<table id="oficinas" name="oficinas" caption="Oficinas" userlevel="" priv="1"/>
+<table id="ss_index" name="ss_index" caption="Slideshow Index" userlevel="" priv="1"/>
+<table id="ss_nosotros" name="ss_nosotros" caption="Slide Nosotros" userlevel="" priv="1"/>
+<table id="benbetesh" name="benbetesh" caption="benbetesh" userlevel="" priv="1"/>
+<table id="pie" name="pie" caption="pie" userlevel="" priv="1"/>
+<table id="form_empleo" name="form_empleo" caption="form empleo" userlevel="" priv="1"/>
+<table id="trabajo" name="trabajo" caption="trabajo" userlevel="" priv="1"/>
+</project></configuration>

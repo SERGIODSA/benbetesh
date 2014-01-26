@@ -1,0 +1,31 @@
+# Activar RewriteEngine
+RewriteEngine on
+RewriteBase /
+
+RewriteRule ^noticia/(.+)/$ noticia.php?id=$1
+RewriteRule ^noticias/(.+)/$ noticias.php?id=$1
+RewriteRule ^tienda/(.+)/$ tienda.php?id=$1
+
+RewriteRule ^noticias/$ noticias.php
+RewriteRule ^nosotros/$ nosotros.php
+RewriteRule ^benbetesh/$ benbetesh.php
+RewriteRule ^marcas/$ marcas.php
+RewriteRule ^contactenos/$ contactenos.php
+RewriteRule ^trabajo/$ trabajo.php
+RewriteRule ^buscador/$ buscador.php
+
+RewriteRule ^(.+)/(.+)/estilos/(.+)$ ./estilos/$2
+RewriteRule ^(.+)/(.+)/js/(.+)$ ./js/$2
+RewriteRule ^(.+)/(.+)/imagenes/(.+)$ ./imagenes/$2
+RewriteRule ^(.+)/(.+)/subidas/(.+)$ ./subidas/$2
+RewriteRule ^(.+)/(.+)/callback.php$ ./callback.php
+RewriteRule ^(.+)/(.+)/contacto.php$ ./contacto.php
+RewriteRule ^(.+)/(.+)/empleo.php$ ./empleo.php
+
+RewriteRule ^(.+)/estilos/(.+)$ ./estilos/$2
+RewriteRule ^(.+)/js/(.+)$ ./js/$2
+RewriteRule ^(.+)/imagenes/(.+)$ ./imagenes/$2
+RewriteRule ^(.+)/subidas/(.+)$ ./subidas/$2
+RewriteRule ^(.+)/callback.php$ ./callback.php
+RewriteRule ^(.+)/empleo.php$ ./empleo.php
+RewriteRule ^(.+)/contacto.php$ ./contacto.php

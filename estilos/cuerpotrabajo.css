@@ -1,0 +1,178 @@
+.input-large{
+	height: 30px;
+}
+.contenido{
+	position: relative;
+	width: 1000px;
+	/* IE10 Consumer Preview */ 
+	background-image: -ms-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Mozilla Firefox */ 
+	background-image: -moz-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Opera */ 
+	background-image: -o-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* Webkit (Safari/Chrome 10) */ 
+	background-image: -webkit-gradient(linear, left top, left bottom, color-stop(0, #DADEEA), color-stop(1, #FFFFFF));
+	/* Webkit (Chrome 11+) */ 
+	background-image: -webkit-linear-gradient(top, #DADEEA 0%, #FFFFFF 100%);
+	/* W3C Markup, IE10 Release Preview */ 
+	background-image: linear-gradient(to bottom, #DADEEA 0%, #FFFFFF 100%);
+	/* IE 8 y 9 */
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#DADEEA', EndColorStr='#FFFFFF',GradientType='0');  
+}
+.descripcion{
+	position: relative;
+	float: left;
+	width: 500px;
+	top: 33px;
+}
+.formulario{
+	position: relative;
+	float: right;
+	width: 500px;
+	top: 33px;
+}
+.formempleo{
+	background-color: #223d4e;
+	color: #ffffff;
+	font-size: 16px;
+	width: 454px;
+	height: 660px;
+}
+.file-input-name{
+	font-size: 12px;
+}
+.sizeinput{
+	width: 321px;
+	color: #223d4e;
+	height: 30px;
+	font-size: 18px;
+}
+.formizq{
+	position: relative;
+	float: left;
+	width: 90px;
+	height: 60px;
+	text-align: right;
+	line-height: 40px;
+}
+.formder{
+	position: relative;
+	float: right;
+	width: 353px;
+	height: 60px;
+}
+.formup{
+	position: relative;
+	float: left;
+	height: 60px;
+	line-height: 80px;
+	width: 400px;
+	margin-left: 27px;
+}
+.formdown{
+	position: relative;
+	float: left;
+	margin-left: 27px;
+	width: 400px;
+}
+#upload_frame{
+	display:none;
+	height:0;
+	width:0;
+}
+.fileup{
+	position: relative;
+	float: left;
+	margin-left: 27px;
+	width: 400px;
+	height: 30px;
+}
+.filedown{
+	position: relative;
+	float: left;
+	width: 400px;
+	margin-left: 27px;
+}
+.empleo{
+	width: 454px;
+	height: 500px;
+}
+.boton{
+	position: relative;
+	float: right;
+	top: 15px;
+	right: 13px;
+	width: 133px;
+}
+.info{
+	position: relative;
+	float: left;
+	top: 16px;
+	margin-left: 28px;
+	width: 254px;
+	height: 36px;
+}
+.tituloform{
+	position: relative;
+	float: left;
+	width: 400px;
+	height: 86px;
+	margin-left: 27px;
+	margin-top: 28px;
+}
+.sizetit{
+	font-size: 20px;
+}
+.notisubtitulo{
+	border-top: 1px solid #006dc0;
+	border-bottom: 1px solid #006dc0;
+	max-height: 50px;
+	width: 414px;
+	color: #006dc0; 
+	font-size: 20px;
+	font-weight: bold;
+	margin-left: 58px;
+	padding: 5px 0px 5px 0px;
+}
+.notitexto{
+	position: relative;
+	width: 414px;
+	font-size: 16px;
+	color: #006dc0; 
+	margin-top: 24px;
+	margin-left: 58px;
+	margin-bottom: 24px;
+	text-align: justify;
+}
+textarea{
+	resize:none;
+	width: 395px;
+	height: 159px;
+	font-size: 18px;
+	font-weight: bold;
+	color: #223d4e;
+	font-family: 'nexalight';
+    src: url('fuentes/NexaLight.eot');
+    src: local('☺'), url('fuentes/NexaLight.woff') format('woff'), url('fuentes/NexaLight.ttf') format('truetype'), url('fuentes/NexaLight.svg') format('svg');
+	overflow: auto;
+}
+label.error{
+	font-size: 10px;
+	color: #FFFF00;
+	line-height: 5px;
+	float: left;
+	width: 400px;
+}
+input.error{
+	border: 1px solid #FFFF00;
+}
+.divautoajustable{
+	clear: both;
+	height: 50px;
+}
+.archivo{
+	width: 110px;
+}
+.envio{
+	width: 120px;
+}

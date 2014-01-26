@@ -1,0 +1,150 @@
+.tabs{
+	list-style-type:none;  
+	margin:0; 
+	padding:0;
+}
+.tabs li{
+	float:left; 
+}
+.benbeteshslideshow{
+	position: relative;
+	width: 1000px;
+	height: 611px;
+}
+.benbeteshmarcas{
+	position: relative;
+	width: 1000px;
+	height: 175px;
+	margin-top: 7px;
+}
+/* LA PARTE DE LA INFORMACION DE PERFIL MARCAS TIENDA UBICACION */
+.benbeteshcontenido{
+	height: 505px;
+	width: 1000px;
+	position: relative;
+}
+.benbeteshinfo{
+	position: relative;
+	float: left;
+	width: 515px;
+	height: 478px;
+	margin-left: 60px;
+}
+.benbeteshubicacion{
+	position: relative;
+	float: right;
+	width: 360px;
+	height: 458px;
+	margin-right: 60px;
+	top: 42px;
+}
+.benbeteshinfotit{
+	color: #8c8e8d;
+	text-decoration: none;
+	position: relative;
+	width: 485px;
+	height: 25px;
+	border-bottom: solid 1px #006dc0;
+	top: 42px;
+}
+#perfil{
+	color: #036bc2;
+}
+#marcas, #tiendas{
+	color: #8c8e8d;
+}
+#perfil, #marcas, #tiendas{
+	text-decoration: none;
+	font-size: 18px;
+}
+.benbeteshinfocuerpo{
+	position: relative;
+	width: 485px;
+	height: 370px;
+	color: #036bc2;
+	line-height: 22px;
+	text-align: justify;
+	top: 42px;
+}
+.iub{
+	float: right;
+	border: 1px solid #006dc0; 
+	height: 424px;
+	width: 360px;
+	color: #036bc2;
+}
+.iubcontenido{
+	border-top: 1px solid #006dc0; 
+	margin-left: 11px;
+	margin-right: 8px;
+	margin-top: 8px;
+}
+.iubcelda1{
+	line-height: 27px;
+	text-align: center;
+	height: 16px;
+	font-weight: bold;
+}
+.iubcelda2{
+	height:auto; 
+	overflow:hidden;
+	font-size: 13px;
+}
+.iubfotico{
+	position: relative;
+	float: left;
+	width: 125px;
+	height: 74px;
+	margin-top: 11px;
+}
+.iubinfo{
+	position: relative;
+	float: right;
+	width: 204px;
+	height:auto; 
+	overflow:hidden;
+}
+.titulo{
+	position: relative;
+	float: left;
+	font-weight: bold;
+	border-bottom: solid 1px #006dc0;
+	width: 204px;
+	margin-top: 10px;
+}
+.texto{
+	position: relative;
+	float: left;
+	width: 204px;
+	margin-top: 10px;
+}
+.iubmi{
+	margin-top: 15px;
+}
+.iubdir{
+	position: relative;
+	float: right;
+	margin-top: 10px;
+	width: 195px;
+}
+.descripcion{
+	margin-right: 40px;
+}
+.smallimg{
+	display:block; 
+	float: left; 
+	position: relative;
+}
+.jspPane table{
+	border: none;
+}
+.jspPane table  tr  td{
+	vertical-align: text-top;
+}
+.jspPane table  tr  td p{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+.jspPane p{
+	margin-right: 40px;
+}
